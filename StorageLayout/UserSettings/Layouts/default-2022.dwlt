@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 265
     height: 583
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -606,9 +606,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1341.6898, y: 481.1484, z: -5.0627074}
+    m_Target: {x: 1125.5043, y: 567.41125, z: -6.1827755}
     speed: 2
-    m_Value: {x: 1341.6898, y: 481.1484, z: -5.0627074}
+    m_Value: {x: 1125.5043, y: 567.41125, z: -6.1827755}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -658,9 +658,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 523.9505
+    m_Target: 635.95636
     speed: 2
-    m_Value: 523.9505
+    m_Value: 635.95636
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -722,9 +722,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4e5b0000
-      m_LastClickedID: 23374
-      m_ExpandedIDs: 30fbffff765a0000a65b0000
+      m_SelectedIDs: 745b0000
+      m_LastClickedID: 23412
+      m_ExpandedIDs: 30fbffff765a0000f45a0000165b0000745b0000a65b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -815,7 +815,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -826,7 +826,7 @@ MonoBehaviour:
       y: 21
       width: 1199
       height: 541
-    m_Scale: {x: 0.49958333, y: 0.4995833}
+    m_Scale: {x: 0.49958327, y: 0.4995833}
     m_Translation: {x: 599.5, y: 270.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -834,9 +834,9 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1200
+      x: -1200.0001
       y: -541.45123
-      width: 2400
+      width: 2400.0002
       height: 1082.9025
     m_MinimalGUI: 1
   m_defaultScale: 0.49958333
